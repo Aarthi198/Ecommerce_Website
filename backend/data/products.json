@@ -1,0 +1,258 @@
+[
+  {
+    "_id": "bangle-001",
+    "name": "Sunset Glow Silk Bangle Set",
+    "description": "A beautiful set of three handcrafted silk thread bangles in sunset-inspired colors: peach, orange, and gold. Each bangle is meticulously wrapped with high-quality silk thread and adorned with small crystal embellishments.",
+    "category": "bangles",
+    "price": 24.99,
+    "images": [
+      {
+        "url": "/images/Golden%20Orange%20Wedding%20Silk%20Thread%20Bangle.jpg",
+        "alt": "Sunset Glow Silk Bangle Set"
+      }
+    ],
+    "featured": true,
+    "stock": 15,
+    "tags": ["sunset", "gold", "wedding"]
+  },
+  {
+    "_id": "bangle-002",
+    "name": "Ocean Breeze Silk Bangle",
+    "description": "Inspired by the calming colors of the sea, this wide silk thread bangle features shades of blue and turquoise with subtle silver accents. Perfect for both casual and formal wear.",
+    "category": "bangles",
+    "price": 18.99,
+    "images": [
+      {
+        "url": "/images/Ocean%20Pearl%20Silk%20Thread%20Bangle.jpg",
+        "alt": "Ocean Breeze Silk Bangle"
+      }
+    ],
+    "featured": true,
+    "stock": 20,
+    "tags": ["ocean", "blue", "casual"]
+  },
+  {
+    "_id": "bangle-003",
+    "name": "Floral Fantasy Bangle Set",
+    "description": "This exquisite set of five slim bangles showcases intricate flower patterns crafted with multicolored silk threads. The delicate design includes tiny pearl beads for an elegant touch.",
+    "category": "bangles",
+    "price": 29.99,
+    "images": [
+      {
+        "url": "/images/Peach%20Blossom%20Bridal%20Silk%20Thread%20Bangle%20Set.jpg",
+        "alt": "Floral Fantasy Bangle Set"
+      }
+    ],
+    "featured": false,
+    "stock": 12,
+    "tags": ["floral", "peach", "bridal"]
+  },
+  {
+    "_id": "bangle-004",
+    "name": "Royal Purple Silk Bangle",
+    "description": "A statement bangle in royal purple, handcrafted with premium silk thread and adorned with golden zari work. The rich color and intricate designs make it perfect for festive occasions.",
+    "category": "bangles",
+    "price": 15.99,
+    "images": [
+      {
+        "url": "/images/Royal%20Maroon%20Kundan%20Bridal%20Bangle%20Set.jpg",
+        "alt": "Royal Purple Silk Bangle"
+      }
+    ],
+    "featured": false,
+    "stock": 18,
+    "tags": ["royal", "purple", "festive"]
+  },
+  {
+    "_id": "earring-001",
+    "name": "Peacock Feather Silk Thread Earrings",
+    "description": "These stunning earrings are inspired by peacock feathers, featuring vibrant blue and green silk threads. The lightweight design hangs gracefully and catches the light beautifully.",
+    "category": "earrings",
+    "price": 12.99,
+    "images": [
+      {
+        "url": "/images/Royal%20Peacock%20Silk%20Thread%20Earrings.png",
+        "alt": "Peacock Feather Silk Thread Earrings"
+      }
+    ],
+    "featured": true,
+    "stock": 25,
+    "tags": ["peacock", "blue", "elegant"]
+  },
+  {
+    "_id": "earring-002",
+    "name": "Rose Gold Silk Jhumkas",
+    "description": "Traditional jhumka earrings reimagined with rose gold silk thread wrapping. These medium-sized earrings feature small bells at the bottom for a subtle musical touch when you move.",
+    "category": "earrings",
+    "price": 16.99,
+    "images": [
+      {
+        "url": "/images/Princess%20Pink%20Pearl%20Jhumka.png",
+        "alt": "Rose Gold Silk Jhumkas"
+      }
+    ],
+    "featured": false,
+    "stock": 22,
+    "tags": ["rose gold", "jhumka", "traditional"]
+  },
+  {
+    "_id": "earring-003",
+    "name": "Pastel Dream Silk Thread Hoops",
+    "description": "Delicate hoop earrings wrapped in pastel pink, lavender, and mint green silk threads. These lightweight earrings add a pop of color to any outfit.",
+    "category": "earrings",
+    "price": 14.99,
+    "images": [
+      {
+        "url": "/images/Sunflower%20Halo%20Silk%20Thread%20Earrings.png",
+        "alt": "Pastel Dream Silk Thread Hoops"
+      }
+    ],
+    "featured": false,
+    "stock": 30,
+    "tags": ["pastel", "hoops", "lightweight"]
+  },
+  {
+    "_id": "earring-004",
+    "name": "Geometric Silk Thread Studs",
+    "description": "Modern and minimalist, these geometric silk thread studs feature a triangle design wrapped in vibrant red silk thread with gold accents.",
+    "category": "earrings",
+    "price": 9.99,
+    "images": [
+      {
+        "url": "/images/Ruby%20Heritage%20Silk%20Thread%20Jhumka.png",
+        "alt": "Geometric Silk Thread Studs"
+      }
+    ],
+    "featured": false,
+    "stock": 40,
+    "tags": ["geometric", "studs", "minimalist"]
+  },
+  {
+    "_id": "bangle-005",
+    "name": "Emerald Teardrop Silk Bangle",
+    "description": "A single statement bangle in deep emerald tones with teardrop bead accents, wrapped in luxurious silk thread.",
+    "category": "bangles",
+    "price": 21.99,
+    "images": [
+      {
+        "url": "/images/Emerald%20Teardrop%20Silk%20Thread%20Bangle%20Set.jpg",
+        "alt": "Emerald Teardrop Silk Bangle"
+      }
+    ],
+    "featured": false,
+    "stock": 14,
+    "tags": ["emerald", "statement", "luxury"]
+  },
+  {
+    "_id": "bangle-006",
+    "name": "Ruby Royale Silk Thread Bangle Set",
+    "description": "A regal set of three ruby-hued bangles with subtle zari highlights for a festive touch.",
+    "category": "bangles",
+    "price": 34.99,
+    "images": [
+      {
+        "url": "/images/Ruby%20Royale%20Silk%20Thread%20Bangle%20Set.jpg",
+        "alt": "Ruby Royale Silk Thread Bangle Set"
+      }
+    ],
+    "featured": false,
+    "stock": 10,
+    "tags": ["ruby", "regal", "festive"]
+  },
+  {
+    "_id": "earring-005",
+    "name": "Midnight Royale Silk Thread Jhumka",
+    "description": "Dark and elegant jhumkas wrapped in midnight blue silk thread with tiny reflective beads for shimmer.",
+    "category": "earrings",
+    "price": 18.99,
+    "images": [
+      {
+        "url": "/images/Midnight%20Royale%20Silk%20Thread%20Jhumka.png",
+        "alt": "Midnight Royale Silk Thread Jhumka"
+      }
+    ],
+    "featured": false,
+    "stock": 16,
+    "tags": ["midnight", "elegant", "jhumka"]
+  },
+  {
+    "_id": "earring-006",
+    "name": "Pink Blossom Silk Thread Jhumka",
+    "description": "Soft pink jhumkas with floral motifs, lightweight and perfect for daytime ensembles.",
+    "category": "earrings",
+    "price": 17.99,
+    "images": [
+      {
+        "url": "/images/Pink%20Blossom%20Silk%20Thread%20Jhumka.png",
+        "alt": "Pink Blossom Silk Thread Jhumka"
+      }
+    ],
+    "featured": false,
+    "stock": 18,
+    "tags": ["pink", "floral", "daytime"]
+  },
+  {
+    "_id": "bangle-007",
+    "name": "Velvet Ruby Bridal Bangle Set",
+    "description": "A luxurious velvet-wrapped ruby bangle set with kundan-style embellishments and pearl accents.",
+    "category": "bangles",
+    "price": 44.99,
+    "images": [
+      {
+        "url": "/images/Velvet%20Ruby%20Bridal%20Collection.png",
+        "alt": "Velvet Ruby Bridal Bangle Set"
+      }
+    ],
+    "featured": false,
+    "stock": 6,
+    "tags": ["velvet", "bridal", "luxury"]
+  },
+  {
+    "_id": "bangle-008",
+    "name": "Royal Maroon Kundan Bangle",
+    "description": "Deep maroon silk thread bangle featuring traditional kundan stones and delicate gold beading.",
+    "category": "bangles",
+    "price": 27.99,
+    "images": [
+      {
+        "url": "/images/Royal%20Maroon%20Kundan%20Bridal%20Bangle%20Set.jpg",
+        "alt": "Royal Maroon Kundan Bangle"
+      }
+    ],
+    "featured": false,
+    "stock": 12,
+    "tags": ["maroon", "kundan", "traditional"]
+  },
+  {
+    "_id": "earring-007",
+    "name": "Emerald Pearl Silk Thread Jhumka",
+    "description": "Handcrafted jhumkas with emerald silk thread, pearl drops and gold-plated detailing.",
+    "category": "earrings",
+    "price": 29.99,
+    "images": [
+      {
+        "url": "/images/Emerald%20Pearl%20Silk%20Thread%20Jhumka.png",
+        "alt": "Emerald Pearl Silk Thread Jhumka"
+      }
+    ],
+    "featured": false,
+    "stock": 8,
+    "tags": ["emerald", "pearl", "bridal"]
+  },
+  {
+    "_id": "earring-008",
+    "name": "Ruby Blossom Silk Thread Jhumka",
+    "description": "Rich ruby-hued silk thread jhumkas adorned with kundan petals and dangling pearls.",
+    "category": "earrings",
+    "price": 31.99,
+    "images": [
+      {
+        "url": "/images/Ruby%20Blossom%20Silk%20Thread%20Jhumka.png",
+        "alt": "Ruby Blossom Silk Thread Jhumka"
+      }
+    ],
+    "featured": false,
+    "stock": 10,
+    "tags": ["ruby", "bridal", "petals"]
+  }
+]
