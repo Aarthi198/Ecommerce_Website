@@ -1,73 +1,65 @@
-# Welcome to your Lovable project
+# Silk Thread Ecommerce Website
 
-## Project info
+A full-stack ecommerce website for handcrafted silk thread jewelry. The project includes a React storefront, customer authentication, cart and checkout flows, order tracking, contact forms, and an admin area for managing products and orders.
 
-**URL**: https://lovable.dev/projects/cb0e6def-0247-4b0d-8e22-6f62715cd198
+## Features
 
-## How can I edit this code?
+- Product listing and product detail pages
+- Cart and checkout workflow
+- User sign in and sign up
+- Customer order history
+- Admin login and protected admin routes
+- Product and order management
+- Contact form support
+- Responsive UI built with shadcn-ui and Tailwind CSS
 
-There are several ways of editing your application.
+## Tech Stack
 
-**Use Lovable**
+- Vite
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn-ui
+- Node.js
+- Express
+- MongoDB
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/cb0e6def-0247-4b0d-8e22-6f62715cd198) and start prompting.
+## Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Install frontend dependencies:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+npm install
+```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Install backend dependencies:
 
-# Step 3: Install the necessary dependencies.
-npm i
+```sh
+cd backend
+npm install
+```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Create a backend environment file from the backend documentation, then add your MongoDB, JWT, and email settings.
+
+Run the backend:
+
+```sh
+cd backend
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Run the frontend:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```sh
+npm run dev
+```
 
-**Use GitHub Codespaces**
+## Build
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+```sh
+npm run build
+```
 
-## What technologies are used for this project?
+## Repository
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/cb0e6def-0247-4b0d-8e22-6f62715cd198) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+GitHub: https://github.com/Aarthi198/Ecommerce_Website
